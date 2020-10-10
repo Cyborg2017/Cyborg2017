@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Cyborg2017's github stats](https://github-readme-stats.vercel.app/api?username=Cyborg2017)](https://github.com/Cyborg2017)
+
 <!--
 **Cyborg2017/Cyborg2017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
