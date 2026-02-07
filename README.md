@@ -2,20 +2,24 @@
 
 ## 🚀 About Me
 
-```python
-class Cyborg2017:
-    def __init__(self):
-        self.name = "Cyborg2017"
-        self.role = "Tech Enthusiast & Developer"
-        self.motto = "Code the future, build the impossible"
-        self.location = "Digital Space"
-        
-    def skills(self):
-        return ["Python", "JavaScript", "Web Development", "AI/ML", "Cloud Computing"]
-    
-    def interests(self):
-        return ["Open Source", "New Technologies", "Gaming", "Space Exploration"]
-```
+### 👨‍💻 Personal Profile
+
+- **Name**: Cyborg2017
+- **Role**: Tech Enthusiast & Developer
+- **Motto**: Code the future, build the impossible
+- **Location**: Digital Space
+
+### 🛠️ Skills
+- **Programming Languages**: Python, JavaScript
+- **Development**: Web Development, Frontend/Backend
+- **Technologies**: AI/ML Basics, Cloud Computing
+- **Tools**: Git, Docker, VS Code
+
+### 🌟 Interests
+- Open Source Contribution
+- Exploring New Technologies
+- Gaming & Game Development
+- Space Exploration & Technology
 
 ### 🌟 Profile Highlights
 
