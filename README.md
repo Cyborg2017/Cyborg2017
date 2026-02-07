@@ -1,15 +1,79 @@
-### Hi there 👋
+# 👨‍💻 Cyborg2017
 
-[![Cyborg2017's github stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cyborg2017&theme=nord_dark)](https://github.com/Cyborg2017)
+## 🚀 About Me
 
-## 🤔 What I'm doing
- - Trying New Things
+```python
+class Cyborg2017:
+    def __init__(self):
+        self.name = "Cyborg2017"
+        self.role = "Tech Enthusiast & Developer"
+        self.motto = "Code the future, build the impossible"
+        self.location = "Digital Space"
+        
+    def skills(self):
+        return ["Python", "JavaScript", "Web Development", "AI/ML", "Cloud Computing"]
+    
+    def interests(self):
+        return ["Open Source", "New Technologies", "Gaming", "Space Exploration"]
+```
 
-## 💻 Working environment
-[![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows11&logoColor=ffffff)](#)<br>
-[![Ubuntu 22.04](https://img.shields.io/badge/Ubuntu%2021%2e04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://releases.ubuntu.com/21.04/)<br>
-[![iOS 16](https://img.shields.io/badge/iOS%2016-4f4f4f?style=flat-square&logo=iOS&logoColor=ffffff)](https://www.apple.com/ios/ios-16/)<br>
+### 🌟 Profile Highlights
 
-## 📫 Get in touch
-[![Telegram](https://img.shields.io/badge/%40Cyborg2017-0088cc?style=flat-square&logo=telegram&logoColor=ffffff)](https://t.me/Cyborg2017)
-[![Email](https://img.shields.io/badge/cyborg2017@yeah.net-c14438?style=flat-square&logo=Gmail&logoColor=whitee)](mailto:cyborg2017@yeah.net)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cyborg2017&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyborg2017&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cyborg2017&theme=radical" alt="GitHub Streak" />
+</div>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</div>
+
+## 📊 GitHub Activity
+
+[![Cyborg2017's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Cyborg2017&theme=radical)](https://github.com/Cyborg2017)
+
+## 💻 Working Environment
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Windows%2011-00adef?style=for-the-badge&logo=windows11&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Ubuntu%2022.04-dd4814?style=for-the-badge&logo=ubuntu&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/iOS%2016-4f4f4f?style=for-the-badge&logo=iOS&logoColor=ffffff" />
+</div>
+
+## 🎯 Current Focus
+
+- 🔭 **Working on**: Exciting new projects in web development and AI
+- 🌱 **Learning**: Advanced machine learning techniques and cloud architecture
+- 👯 **Collaborating on**: Open source projects that make a difference
+
+## 📫 Get in Touch
+
+<div align="center">
+  <a href="https://t.me/Cyborg2017" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=ffffff" />
+  </a>
+  <a href="mailto:cyborg2017@yeah.net" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" />
+  </a>
+</div>
+
+## 🎨 Fun Facts
+
+- 🚀 I'm passionate about space technology and future innovations
+- 🎮 Gaming enthusiast with a soft spot for strategy games
+- 🔧 Always tinkering with new tools and technologies
+- 📚 Avid learner, constantly exploring new domains
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=Code+the+future;Build+the+impossible;Never+stop+learning" alt="Typing SVG" />
+</div>
