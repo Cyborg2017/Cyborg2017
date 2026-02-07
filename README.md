@@ -2,40 +2,15 @@
 
 ## 🚀 About Me
 
-### 👨‍💻 Personal Profile
-
 - **Name**: Cyborg2017
 - **Role**: Tech Enthusiast & Developer
 - **Motto**: Code the future, build the impossible
-- **Location**: Digital Space
-
-### 🛠️ Skills
-- **Programming Languages**: Python, JavaScript
-- **Development**: Web Development, Frontend/Backend
-- **Technologies**: AI/ML Basics, Cloud Computing
-- **Tools**: Git, Docker, VS Code
-
-### 🌟 Interests
-- Open Source Contribution
-- Exploring New Technologies
-- Gaming & Game Development
-- Space Exploration & Technology
-
-### 🌟 Profile Highlights
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cyborg2017&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyborg2017&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cyborg2017&theme=radical" alt="GitHub Streak" />
-</div>
 
 ## 🛠️ Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
@@ -48,8 +23,8 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Windows%2011-00adef?style=for-the-badge&logo=windows11&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Ubuntu%2022.04-dd4814?style=for-the-badge&logo=ubuntu&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/iOS%2016-4f4f4f?style=for-the-badge&logo=iOS&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Ubuntu%2024.04-dd4814?style=for-the-badge&logo=ubuntu&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/iOS%2026-4f4f4f?style=for-the-badge&logo=iOS&logoColor=ffffff" />
 </div>
 
 ## 🎯 Current Focus
@@ -68,13 +43,6 @@
     <img src="https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" />
   </a>
 </div>
-
-## 🎨 Fun Facts
-
-- 🚀 I'm passionate about space technology and future innovations
-- 🎮 Gaming enthusiast with a soft spot for strategy games
-- 🔧 Always tinkering with new tools and technologies
-- 📚 Avid learner, constantly exploring new domains
 
 ---
 
