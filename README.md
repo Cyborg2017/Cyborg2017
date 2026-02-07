@@ -17,7 +17,11 @@
 
 ## 📊 GitHub Activity
 
-[![Cyborg2017's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Cyborg2017&theme=radical)](https://github.com/Cyborg2017)
+<div align="center">
+  <a href="https://github.com/Cyborg2017">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cyborg2017&theme=github-dark&hide_border=true&area=true&custom_title=GitHub%20Activity%20Graph" alt="GitHub Activity Graph" style="width: 100%; max-width: 700px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);" />
+  </a>
+</div>
 
 ## 💻 Working Environment
 
